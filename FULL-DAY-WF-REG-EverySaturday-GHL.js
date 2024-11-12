@@ -1,4 +1,5 @@
 <script>
+	console.log("FULL-DAY-WF-REG-EverySaturday-GHL.js loaded");
 if (typeof getURLParameter === 'undefined') {
     const getURLParameter = (param) => {
         const params = new URLSearchParams(window.location.search);
